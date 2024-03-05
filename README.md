@@ -21,24 +21,12 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdrurvk1@gmail.com)](dhkdrurvk1@gmail.com)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qowjdgns0106)](https://solved.ac/qowjdgns0106/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
-
 
 
 
