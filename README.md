@@ -25,7 +25,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/qowjdgns0106/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/Roviil/)  
 Programmers - Lv3  
 Samsung SW *Pro Level*
 
