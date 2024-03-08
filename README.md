@@ -1,11 +1,8 @@
-### Hi Welcome, i'm YUNA BAE 👋
-
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+### Hi Welcome, i'm JUNGHUN BAE 👋
 
 
-🛠️ Stacks
+
+##🛠️ Stacks
 <p>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
@@ -19,7 +16,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 </p>
 <br>
 
-💪🏼 Tools 
+##💪🏼 Tools 
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
