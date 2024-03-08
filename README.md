@@ -1,4 +1,4 @@
-<div align="center">
+
  ### Hi Welcome, i'm JUNGHUN BAE 👋
  
  
@@ -51,4 +51,4 @@
  🏅 Algorithm 
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qowjdgns0106)](https://solved.ac/qowjdgns0106/)  
-</div>
+
