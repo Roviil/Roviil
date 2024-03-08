@@ -38,14 +38,15 @@
   
  
  <a href="https://github.com/Roviil"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roviil&layout=compact&theme=nord&hide_border=true" /></a>
+
+
+
+ 🐱Contact
+ 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdrurvk1@gmail.com)](dhkdrurvk1@gmail.com)
+ 
+ 
+ 🏅 Algorithm 
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qowjdgns0106)](https://solved.ac/qowjdgns0106/)  
 </div>
-
-
-🐱Contact
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdrurvk1@gmail.com)](dhkdrurvk1@gmail.com)
-
-
-🏅 Algorithm 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qowjdgns0106)](https://solved.ac/qowjdgns0106/)  
