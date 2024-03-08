@@ -15,6 +15,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
  <img src="https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=mysql&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-02569B?style=flat-square&logo=nodedotjs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 <br>
 
