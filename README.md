@@ -44,7 +44,7 @@
  🐱Contact
  
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdrurvk1@gmail.com)](dhkdrurvk1@gmail.com)
- <a href="https://naver.com" target="_blank" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> <p style="text-decoration-line: none;">qowjdgns0106@naver.com</p>
+ <a href="https://naver.com" target="_blank" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> qowjdgns0106@naver.com
 
  
  
