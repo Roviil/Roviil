@@ -42,7 +42,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 <a href="https://github.com/Roviil"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roviil&layout=compact&theme=nord&hide_border=true" /></a>
 
 
-🐱Contact
+🐱Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhkdrurvk1@gmail.com)](dhkdrurvk1@gmail.com)
 
